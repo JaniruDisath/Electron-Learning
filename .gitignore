@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
-dist-react
+dist-reactnp
 dist-ssr
 *.local
 
